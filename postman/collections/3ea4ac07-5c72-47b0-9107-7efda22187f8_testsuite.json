@@ -1,0 +1,34 @@
+{
+    "info": {
+        "_postman_id": "5e820e0c-011c-41dd-b3a0-4e7aee3d196e",
+        "name": "1",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "1",
+            "event": [
+                {
+                    "listen": "test",
+                    "script": {
+                        "id": "486211f5-e2c5-4961-b7f1-b1a3311015e8",
+                        "exec": [
+                            "fsdfs "
+                        ],
+                        "type": "text/javascript"
+                    }
+                }
+            ],
+            "id": "0ceb94eb-1abe-4028-aca6-1f7107ed910c",
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "request": {
+                "method": "GET",
+                "header": [],
+                "url": null
+            },
+            "response": []
+        }
+    ]
+}
